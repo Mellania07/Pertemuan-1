@@ -1,3 +1,4 @@
+//underscore dalam literal, untuk memberikan kemudahan pada pengembang dalam membaca dan menulis kode program
 fun main(args: Array<String>) {
     val floatLiteral : Float = 178.95F //Literal Float
     println("Contoh Literal Float : " + floatLiteral)
